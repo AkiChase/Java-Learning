@@ -21,7 +21,9 @@ public class ObjectOrientBasis {
     public static void betterObject() {
         Student s = new Student("小王", 16);
         //没有c#那样的语法糖 得自己调用getter
+        s.setAge(-10);
         System.out.printf("我是一名学生，名叫:%s, 年龄:%s", s.getName(), s.getAge());
-
+        s.setAge(15);
+        System.out.printf("我是一名学生，名叫:%s, 年龄:%s", s.getName(), s.getAge());
     }
 }
