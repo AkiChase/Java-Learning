@@ -2,6 +2,9 @@ package pers.ruchuby.learning.advance;
 
 public class Student {
     /*
+    所谓（狭义）的封装，就是把成员变量设置为私有，然后设置getter和setter来暴露
+    其实就是选择性的暴露接口
+
     修饰符有4种
     private : 仅仅在同一类内可见（包括不同对象但同一类）
     default (不加修饰的默认情况）: 同一包内可见，但是不同包

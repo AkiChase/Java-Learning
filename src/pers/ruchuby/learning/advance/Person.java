@@ -2,7 +2,7 @@ package pers.ruchuby.learning.advance;
 
 /*
 一个代码文件中（最外层）只能有一个public类（当然不包括内部类）
-但可以有非public类
+但可以有非public类（不过规范上还是一个文件一个类）
  */
 
 public class Person {

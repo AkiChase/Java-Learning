@@ -24,8 +24,5 @@ public class StringLearning {
 //        s1.charAt() //不能用[index]来访问char
 //        s1.substring()
 //        s1.split()
-
-
-
     }
 }

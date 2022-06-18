@@ -5,6 +5,7 @@ public class Main {
 //        ObjectOrientBasis.firstCustomObject();
 //        ObjectOrientBasis.betterObject();
 //        StringLearning.Constructor();
-        StringLearning.StringEquals();
+//        StringLearning.StringEquals();
+        ArrayListLearning.basis();
     }
 }
